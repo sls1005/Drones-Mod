@@ -29,8 +29,8 @@
         "upgradesTo": "Loitering Munition",
         "civilopediaText": [
             {
-                "text": "Backpack for Drone",
-                "link": "Promotions/Backpack for Drone"
+                "text": "Backpack for Drone I",
+                "link": "Promotions/Backpack for Drone I"
             }
         ]
     },
@@ -56,8 +56,8 @@
         "attackSound": "bombing",
         "civilopediaText": [
             {
-                "text": "Backpack for Drone",
-                "link": "Promotions/Backpack for Drone"
+                "text": "Backpack for Drone I",
+                "link": "Promotions/Backpack for Drone I"
             }
         ]
     },
@@ -84,8 +84,8 @@
         "attackSound": "missile",
         "civilopediaText": [
             {
-                "text": "Backpack for Drone",
-                "link": "Promotions/Backpack for Drone"
+                "text": "Backpack for Drone I",
+                "link": "Promotions/Backpack for Drone I"
             }
         ]
     },
@@ -153,8 +153,8 @@
         "attackSound": "bombing",
         "civilopediaText": [
             {
-                "text": "Deck for Drone",
-                "link": "Promotions/Deck for Drone"
+                "text": "Deck for Drone I",
+                "link": "Promotions/Deck for Drone I"
             }
         ]
     },
