@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Small Drone",
+        "movementType": "Air",
+        "uniques": ["[-50]% maintenance costs"]
+    },
+    {
+        "name": "Unmanned Aerial Vehicle",
+        "movementType": "Air",
+        "uniques": [
+            "Aircraft",
+            "[-50]% maintenance costs"
+        ]
+    },
+    {
+        "name": "Unmanned Surface Vehicle",
+        "movementType": "Water",
+        "uniques": [
+            "[-50]% maintenance costs <in [Friendly Land] tiles>",
+            "[-100]% maintenance costs <in [Foreign Land] tiles>"
+        ]
+    },
+    {
+        "name": "Unmanned Underwater Vehicle",
+        "movementType": "Water",
+        "uniques": [
+            "Can see invisible [Submarine] units",
+            "[-50]% maintenance costs <in [Friendly Land] tiles>",
+            "[-100]% maintenance costs <in [Foreign Land] tiles>"
+        ]
+    }
+]

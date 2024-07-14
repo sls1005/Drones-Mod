@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Drone Factory",
+        "requiredTech": "Electronics",
+        "cost": 360,
+        "maintenance": 3,
+        "production": 2,
+        "specialistSlots": {"Engineer": 2},
+        "requiredResource": "Aluminum"
+        "uniques": [
+            "Only available <after discovering [Flight]> <after discovering [Radio]>",
+            "[+5]% Production when constructing [Small Drone] units [in this city]",
+            "[+5]% Production when constructing [Unmanned Aerial Vehicle] units [in this city]",
+            "All newly-trained [Camera Drone] units [in this city] receive the [Better Camera] promotion <in cities with a [Research Lab]> <hidden from users>",
+            "Comment [All newly-trained Camera Drone units in this city receive the Better Camera promotion if there is a Research Lab in this city]"
+        ]
+    },
+    {
+        "name": "LED Drones",
+        "requiredTech": "Robotics",
+        "requiredBuilding": "Drone Factory",
+        "cost": 250,
+         "maintenance": 1,
+        "culture": 2,
+        "happiness": 1,
+        "specialistSlots": {"Artist": 1},
+        "uniques": [
+            "Unbuildable <before discovering [Flight]>",
+            "Unbuildable <before discovering [Radio]>"
+        ]
+    },
+    {
+        "name": "Agricultural Drones",
+        "requiredTech": "Robotics",
+        "requiredBuilding": "Drone Factory",
+        "cost": 250,
+         "maintenance": 1,
+        "uniques": [
+            "Unbuildable <before discovering [Flight]>",
+            "Unbuildable <before discovering [Radio]>",
+            "[+1 Food] from every [Farm]"
+        ]
+    },
+    {
+        "name": "Delivery Drones",
+        "requiredTech": "Robotics",
+        "requiredBuilding": "Drone Factory",
+        "cost": 250,
+        "maintenance": 1,
+        "percentStatBonus": {"production": 15},
+        "uniques": [
+            "Unbuildable <before discovering [Flight]>",
+            "Unbuildable <before discovering [Radio]>"
+        ]
+    }
+]

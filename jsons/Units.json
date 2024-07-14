@@ -1,0 +1,166 @@
+[
+    {
+		"name": "Drone Controller",
+		"unitType": "Scout",
+		"requiredTech": "Robotics",
+		"cost": 60,
+		"strength": 5,
+		"movement": 1,
+		"promotions": ["Backpack for Drone I"],
+		"uniques": [
+		    "Unbuildable <before discovering [Flight]>",
+		    "Unbuildable <before discovering [Radio]>"
+		]
+    },
+    {
+		"name": "Camera Drone",
+		"unitType": "Small Drone",
+		"requiredTech": "Robotics",
+		"cost": 80,
+		"strength": 0,
+		"range": 2,
+		"movement": 1,
+		"uniques": [
+		    "Unbuildable <before discovering [Flight]>",
+		    "Unbuildable <before discovering [Radio]>",
+		    "Unbuildable <in cities without a [Drone Factory]>",
+		    "Can see over obstacles"
+		],
+		"upgradesTo": "Loitering Munition"
+    },
+    {
+		"name": "Small Combat Drone",
+		"unitType": "Small Drone",
+		"requiredTech": "Robotics",
+		"cost": 110,
+		"strength": 10,
+		"rangedStrength": 10,
+		"range": 2,
+		"movement": 1,
+		"uniques": [
+		    "Unbuildable <before discovering [Flight]>",
+		    "Unbuildable <before discovering [Radio]>",
+		    "Unbuildable <in cities without a [Drone Factory]>",
+		    "Can see over obstacles",
+		    "Ranged attacks may be performed over obstacles",
+		    "[+250]% Strength <vs [Land] units> <when attacking>",
+		    "[+150]% Strength <vs [{non-[Armored]} {Land}] units> <when attacking>",
+		    "[+200]% Strength <vs cities> <when attacking>"
+		],
+		"attackSound": "bombing"
+    },
+    {
+		"name": "Loitering Munition",
+		"unitType": "Small Drone",
+		"requiredTech": "Robotics",
+		"cost": 120,
+		"strength": 10,
+		"rangedStrength": 10,
+		"range": 2,
+		"movement": 1,
+		"uniques": [
+		    "Unbuildable <before discovering [Flight]>",
+		    "Unbuildable <before discovering [Radio]>",
+		    "Unbuildable <in cities without a [Drone Factory]>",
+		    "Can see over obstacles",
+		    "Ranged attacks may be performed over obstacles",
+		    "[+400]% Strength <vs [Land] units> <when attacking>",
+		    "[+100]% Strength <vs [{non-[Armored]} {Land}] units> <when attacking>",
+		    "[+300]% Strength <vs cities> <when attacking>",
+		    "Self-destructs when attacking"
+		],
+		"attackSound": "missile"
+    },
+    {
+        "name": "Reconnaissance Drone",
+        "unitType": "Unmanned Aerial Vehicle",
+        "requiredTech": "Computers",
+		"cost": 250,
+        "strength": 40,
+        "range": 8,
+        "movement": 1,
+        "requiredResource": "Oil",
+        "uniques": [
+            "Unbuildable <before discovering [Flight]>",
+		    "Unbuildable <before discovering [Radio]>",
+            "Cannot attack",
+            "Can perform Air Sweep",
+            "Can see over obstacles",
+            "[+6] Sight"
+        ]
+    },
+    {
+        "name": "Combat Drone",
+        "unitType": "Unmanned Aerial Vehicle",
+        "requiredTech": "Advanced Ballistics",
+		"cost": 300,
+        "strength": 40,
+        "rangedStrength": 40,
+        "range": 10,
+        "movement": 1,
+        "requiredResource": "Aluminum",
+        "uniques": [
+            "Unbuildable <before discovering [Flight]>",
+		    "Unbuildable <before discovering [Radio]>",
+		    "Unbuildable <before discovering [Computers]>",
+            "Can perform Air Sweep",
+            "Can see over obstacles",
+            "Ranged attacks may be performed over obstacles",
+            "[+50]% Strength <vs [Land] units> <when attacking>",
+            "[+50]% Strength <vs cities> <when attacking>",
+            "[+8] Sight"
+        ],
+        "attackSound": "missile"
+    },
+    {
+        "name": "Drone Anti-Submarine Helicopter",
+        "unitType": "Unmanned Aerial Vehicle",
+        "requiredTech": "Computers",
+		"cost": 250,
+        "strength": 20,
+        "rangedStrength": 20,
+        "range": 3,
+        "movement": 1,
+        "requiredResource": "Oil",
+        "uniques": [
+            "Unbuildable <before discovering [Flight]>",
+		    "Unbuildable <before discovering [Radio]>",
+            "Can perform Air Sweep",
+            "Can see over obstacles",
+            "Can see invisible [Submarine] units",
+            "Ranged attacks may be performed over obstacles",
+            "[+150]% Strength <vs [Submarine] units> <when attacking>",
+            "[+1] Sight"
+        ],
+        "attackSound": "bombing"
+    },
+    {
+		"name": "Drone Ship",
+		"unitType": "Unmanned Surface Vehicle",
+		"requiredTech": "Computers",
+		"cost": 140,
+		"strength": 10,
+		"movement": 4,
+		"uniques": [
+		    "Unbuildable <before discovering [Radio]>",
+		    "Self-destructs when attacking",
+		    "[+400]% Strength <when attacking>",
+		    "No damage penalty for wounded units <when attacking>",
+		    "[20]% Strength decreasing with distance from the capital <when attacking> <before discovering [Satellites]>",
+		    "Uncapturable",
+		    "Unable to pillage tiles",
+		    "Destroys tile improvements when attacking",
+		    "Unable to capture cities"
+		],
+		"attackSound": "nonmetalhit"
+    },
+    {
+		"name": "Small Undersea Drone",
+		"unitType": "Unmanned Underwater Vehicle",
+		"requiredTech": "Computers",
+		"cost": 50,
+		"strength": 0,
+		"movement": 2,
+		"uniques": ["Uncapturable"]
+    }
+]

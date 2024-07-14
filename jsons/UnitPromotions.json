@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Endurance I",
+        "unitTypes": ["Small Drone", "Unmanned Aerial Vehicle"],
+        "uniques": [
+            "[+1] Range",
+            "[+1] Sight"
+        ]
+    },
+    {
+        "name": "Endurance II",
+        "unitTypes": ["Small Drone", "Unmanned Aerial Vehicle"],
+        "prerequisites": ["Endurance I"],
+        "uniques": [
+            "[+1] Range",
+            "[+1] Sight"
+        ]
+    },
+    {
+        "name": "Endurance III",
+        "unitTypes": ["Small Drone", "Unmanned Aerial Vehicle"],
+        "prerequisites": ["Endurance II"],
+        "uniques": [
+            "[+1] Range",
+            "[+1] Sight"
+        ]
+    },
+    {
+        "name": "Better Camera",
+        "unitTypes": ["Small Drone", "Unmanned Aerial Vehicle", "Unmanned Surface Vehicle", "Unmanned Underwater Vehicle"],
+        "uniques": ["[+1] Sight"]
+    },
+    {
+        "name": "Anti-Drone I",
+        "unitTypes": ["Gunpowder"],
+        "prerequisites": ["Drill II", "Shock II"],
+        "uniques": [
+            "Cannot intercept [non-[Small Drone]] units",
+            "[+25]% chance to intercept air attacks",
+            "[+15]% Strength <vs [Small Drone] units>",
+            "[+1] Air Interception Range"
+        ]
+    },
+    {
+        "name": "Anti-Drone II",
+        "unitTypes": ["Gunpowder"],
+        "prerequisites": ["Anti-Drone I"],
+        "uniques": [
+            "Cannot intercept [non-[Small Drone]] units",
+            "[+25]% chance to intercept air attacks",
+            "[+15]% Strength <vs [Small Drone] units>",
+            "[1] extra interceptions may be made per turn"
+        ]
+    },
+    {
+        "name": "Anti-Drone III",
+        "unitTypes": ["Gunpowder"],
+        "prerequisites": ["Anti-Drone II"],
+        "uniques": [
+            "Cannot intercept [non-[Small Drone]] units",
+            "[+25]% chance to intercept air attacks",
+            "[+15]% Strength <vs [Small Drone] units>",
+            "[1] extra interceptions may be made per turn"
+        ]
+    },
+    {
+        "name": "Backpack for Drone I",
+        "unitTypes": ["Archery", "Sword", "Gunpowder", "Mounted", "Scout"],
+        "prerequisites": ["Accuracy III", "Barrage III", "Drill III", "Scouting III", "Shock III", "Survivalism III"],
+        "uniques": ["Can carry [1] [Small Drone] units"]
+    },
+    {
+        "name": "Backpack for Drone II",
+        "unitTypes": ["Archery", "Sword", "Gunpowder", "Mounted", "Scout"],
+        "prerequisites": ["Backpack for Drone I"],
+        "uniques": ["Can carry [1] extra [Small Drone] units"]
+    },
+    {
+        "name": "Deck for Drone I",
+        "prerequisites": ["Boarding Party I", "Bombardment I", "Coastal Raider I", "Targeting I"],
+        "unitTypes": ["Melee Water", "Ranged Water"],
+        "uniques": ["Can carry [1] [Drone Anti-Submarine Helicopter] units"]
+    },
+    {
+        "name": "Deck for Drone II",
+        "prerequisites": ["Deck for Drone I"],
+        "unitTypes": ["Melee Water", "Ranged Water"],
+        "uniques": ["Can carry [1] extra [Drone Anti-Submarine Helicopter] units"]
+    }
+]
