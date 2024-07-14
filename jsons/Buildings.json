@@ -9,11 +9,17 @@
         "requiredResource": "Aluminum"
         "uniques": [
             "Unbuildable <before discovering [Flight]>",
-		    "Unbuildable <before discovering [Radio]>",
+            "Unbuildable <before discovering [Radio]>",
             "[+5]% Production when constructing [Small Drone] units [in this city]",
             "[+5]% Production when constructing [Unmanned Aerial Vehicle] units [in this city]",
             "All newly-trained [Camera Drone] units [in this city] receive the [Better Camera] promotion <in cities with a [Research Lab]> <hidden from users>",
             "Comment [All newly-trained Camera Drone units in this city receive the Better Camera promotion if there is a Research Lab in this city]"
+        ],
+        "civilopediaText": [
+            {
+                "text": "Better Camera",
+                "link": "Promotions/Better Camera"
+            }
         ]
     },
     {
