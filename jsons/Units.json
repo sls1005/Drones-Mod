@@ -29,7 +29,7 @@
         "upgradesTo": "Loitering Munition",
         "civilopediaText": [
             {
-                "text": "Backpack for Drone I",
+                "text": "Can be carried by units with the Backpack for Drone I promotion",
                 "link": "Promotions/Backpack for Drone I"
             }
         ]
@@ -56,7 +56,7 @@
         "attackSound": "bombing",
         "civilopediaText": [
             {
-                "text": "Backpack for Drone I",
+                "text": "Can be carried by units with the Backpack for Drone I promotion",
                 "link": "Promotions/Backpack for Drone I"
             }
         ]
@@ -84,7 +84,7 @@
         "attackSound": "missile",
         "civilopediaText": [
             {
-                "text": "Backpack for Drone I",
+                "text": "Can be carried by units with the Backpack for Drone I promotion",
                 "link": "Promotions/Backpack for Drone I"
             }
         ]
