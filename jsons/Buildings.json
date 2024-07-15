@@ -17,6 +17,10 @@
         ],
         "civilopediaText": [
             {
+                "text": "See 'Camera Drone'",
+                "link": "Units/Camera Drone"
+            },
+            {
                 "text": "See 'Better Camera'",
                 "link": "Promotions/Better Camera"
             }
