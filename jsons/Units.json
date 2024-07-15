@@ -153,7 +153,7 @@
         "attackSound": "bombing",
         "civilopediaText": [
             {
-                "text": "Deck for Drone I",
+                "text": "Can be carried by units with the Deck for Drone I promotion",
                 "link": "Promotions/Deck for Drone I"
             }
         ]
