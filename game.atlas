@@ -123,7 +123,7 @@ BuildingIcons/LED Drones
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Endurance
+UnitPromotionIcons/UAV Endurance
   rotate: false
   xy: 1192, 4
   size: 100, 100
