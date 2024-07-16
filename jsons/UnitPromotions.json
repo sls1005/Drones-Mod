@@ -10,7 +10,7 @@
     {
         "name": "UAV Endurance II",
         "unitTypes": ["Small Drone", "Unmanned Aerial Vehicle"],
-        "prerequisites": ["Endurance I"],
+        "prerequisites": ["UAV Endurance I"],
         "uniques": [
             "[+1] Range",
             "[+1] Sight"
@@ -19,7 +19,7 @@
     {
         "name": "UAV Endurance III",
         "unitTypes": ["Small Drone", "Unmanned Aerial Vehicle"],
-        "prerequisites": ["Endurance II"],
+        "prerequisites": ["UAV Endurance II"],
         "uniques": [
             "[+1] Range",
             "[+1] Sight"
