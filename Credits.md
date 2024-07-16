@@ -30,6 +30,6 @@ The following icons are used in this project:
 
 * [Drone](https://thenounproject.com/icon/drone-6953414/) by hyunsik from <a href="https://thenounproject.com/browse/icons/term/drone/" target="_blank" title="Drone Icons">Noun Project</a> (CC BY 3.0), used [here](Images/UnitPromotionIcons/Better%20Camera.png) and [here](game.png).
 
-* [Lightning](https://thenounproject.com/icon/lightning-1187991/) by Mooms from <a href="https://thenounproject.com/browse/icons/term/lightning/" target="_blank" title="Lightning Icons">Noun Project</a> (CC BY 3.0), used [here](Images/UnitPromotionIcons/Endurance.png) and [here](game.png).
+* [Lightning](https://thenounproject.com/icon/lightning-1187991/) by Mooms from <a href="https://thenounproject.com/browse/icons/term/lightning/" target="_blank" title="Lightning Icons">Noun Project</a> (CC BY 3.0), used [here](Images/UnitPromotionIcons/UAV%20Endurance.png) and [here](game.png).
 
 Each file was downloaded from the website and then modified.
