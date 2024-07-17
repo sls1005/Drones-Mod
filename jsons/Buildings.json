@@ -8,8 +8,8 @@
         "specialistSlots": {"Engineer": 2},
         "requiredResource": "Aluminum"
         "uniques": [
-            "Unbuildable <before discovering [Flight]>",
-            "Unbuildable <before discovering [Radio]>",
+            "Unavailable <before discovering [Flight]>",
+            "Unavailable <before discovering [Radio]>",
             "[+5]% Production when constructing [Small Drone] units [in this city]",
             "[+5]% Production when constructing [Unmanned Aerial Vehicle] units [in this city]",
             "All newly-trained [Camera Drone] units [in this city] receive the [Better Camera] promotion <in cities with a [Research Lab]> <hidden from users>",
@@ -36,8 +36,8 @@
         "happiness": 1,
         "specialistSlots": {"Artist": 1},
         "uniques": [
-            "Unbuildable <before discovering [Flight]>",
-            "Unbuildable <before discovering [Radio]>"
+            "Unavailable <before discovering [Flight]>",
+            "Unavailable <before discovering [Radio]>"
         ]
     },
     {
@@ -47,8 +47,8 @@
         "cost": 250,
          "maintenance": 1,
         "uniques": [
-            "Unbuildable <before discovering [Flight]>",
-            "Unbuildable <before discovering [Radio]>",
+            "Unavailable <before discovering [Flight]>",
+            "Unavailable <before discovering [Radio]>",
             "[+1 Food] from every [Farm]"
         ]
     },
@@ -60,8 +60,8 @@
         "maintenance": 1,
         "percentStatBonus": {"production": 15},
         "uniques": [
-            "Unbuildable <before discovering [Flight]>",
-            "Unbuildable <before discovering [Radio]>"
+            "Unavailable <before discovering [Flight]>",
+            "Unavailable <before discovering [Radio]>"
         ]
     }
 ]

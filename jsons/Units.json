@@ -8,8 +8,8 @@
         "movement": 1,
         "promotions": ["Backpack for Drone I"],
         "uniques": [
-            "Unbuildable <before discovering [Flight]>",
-            "Unbuildable <before discovering [Radio]>"
+            "Unavailable <before discovering [Flight]>",
+            "Unavailable <before discovering [Radio]>"
         ]
     },
     {
@@ -21,9 +21,9 @@
         "range": 2,
         "movement": 1,
         "uniques": [
-            "Unbuildable <before discovering [Flight]>",
-            "Unbuildable <before discovering [Radio]>",
-            "Unbuildable <in cities without a [Drone Factory]>",
+            "Unavailable <before discovering [Flight]>",
+            "Unavailable <before discovering [Radio]>",
+            "Unavailable <in cities without a [Drone Factory]>",
             "Can see over obstacles"
         ],
         "upgradesTo": "Loitering Munition",
@@ -44,9 +44,9 @@
         "range": 2,
         "movement": 1,
         "uniques": [
-            "Unbuildable <before discovering [Flight]>",
-            "Unbuildable <before discovering [Radio]>",
-            "Unbuildable <in cities without a [Drone Factory]>",
+            "Unavailable <before discovering [Flight]>",
+            "Unavailable <before discovering [Radio]>",
+            "Unavailable <in cities without a [Drone Factory]>",
             "Can see over obstacles",
             "Ranged attacks may be performed over obstacles",
             "[+250]% Strength <vs [Land] units> <when attacking>",
@@ -71,9 +71,9 @@
         "range": 2,
         "movement": 1,
         "uniques": [
-            "Unbuildable <before discovering [Flight]>",
-            "Unbuildable <before discovering [Radio]>",
-            "Unbuildable <in cities without a [Drone Factory]>",
+            "Unavailable <before discovering [Flight]>",
+            "Unavailable <before discovering [Radio]>",
+            "Unavailable <in cities without a [Drone Factory]>",
             "Can see over obstacles",
             "Ranged attacks may be performed over obstacles",
             "[+400]% Strength <vs [Land] units> <when attacking>",
@@ -99,8 +99,8 @@
         "movement": 1,
         "requiredResource": "Oil",
         "uniques": [
-            "Unbuildable <before discovering [Flight]>",
-            "Unbuildable <before discovering [Radio]>",
+            "Unavailable <before discovering [Flight]>",
+            "Unavailable <before discovering [Radio]>",
             "Cannot attack",
             "Can perform Air Sweep",
             "Can see over obstacles",
@@ -118,9 +118,9 @@
         "movement": 1,
         "requiredResource": "Aluminum",
         "uniques": [
-            "Unbuildable <before discovering [Flight]>",
-            "Unbuildable <before discovering [Radio]>",
-            "Unbuildable <before discovering [Computers]>",
+            "Unavailable <before discovering [Flight]>",
+            "Unavailable <before discovering [Radio]>",
+            "Unavailable <before discovering [Computers]>",
             "Can perform Air Sweep",
             "Can see over obstacles",
             "Ranged attacks may be performed over obstacles",
@@ -141,8 +141,8 @@
         "movement": 1,
         "requiredResource": "Oil",
         "uniques": [
-            "Unbuildable <before discovering [Flight]>",
-            "Unbuildable <before discovering [Radio]>",
+            "Unavailable <before discovering [Flight]>",
+            "Unavailable <before discovering [Radio]>",
             "Can perform Air Sweep",
             "Can see over obstacles",
             "Can see invisible [Submarine] units",
@@ -166,7 +166,7 @@
         "strength": 10,
         "movement": 4,
         "uniques": [
-            "Unbuildable <before discovering [Radio]>",
+            "Unavailable <before discovering [Radio]>",
             "Self-destructs when attacking",
             "[+400]% Strength <when attacking>",
             "No damage penalty for wounded units <when attacking>",
@@ -185,6 +185,9 @@
         "cost": 50,
         "strength": 0,
         "movement": 2,
-        "uniques": ["Uncapturable"]
+        "uniques": [
+            "Unavailable <before discovering [Radio]>",
+            "Uncapturable"
+        ]
     }
 ]
