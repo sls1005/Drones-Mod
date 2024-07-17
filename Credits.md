@@ -4,7 +4,7 @@ The following icons are used in this project:
 
 * [Drone](https://thenounproject.com/icon/drone-15278/) by Anthony Lui from <a href="https://thenounproject.com/browse/icons/term/drone/" target="_blank" title="Drone Icons">Noun Project</a> (CC BY 3.0), used [here](Images/UnitIcons/Combat%20Drone.png) and [here](game.png).
 
-* [Drone](https://thenounproject.com/icon/drone-1935590/) by Tang Ge from <a href="https://thenounproject.com/browse/icons/term/drone/" target="_blank" title="Drone Icons">Noun Project</a> (CC BY 3.0), used [here](Images/UnitIcons/Drone%20Anti-Submarine%20Helicopter.png) and [here](game.png).
+* [Drone](https://thenounproject.com/icon/drone-1935590/) by Tang Ge from <a href="https://thenounproject.com/browse/icons/term/drone/" target="_blank" title="Drone Icons">Noun Project</a> (CC BY 3.0), used [here](Images/UnitIcons/Unmanned%20Anti-Submarine%20Helicopter.png) and [here](game.png).
 
 * [Drone](https://thenounproject.com/icon/drone-6904472/) by kanfaz art from <a href="https://thenounproject.com/browse/icons/term/drone/" target="_blank" title="Drone Icons">Noun Project</a> (CC BY 3.0), used [here](Images/UnitIcons/Drone%20Controller.png) and [here](game.png).
 
