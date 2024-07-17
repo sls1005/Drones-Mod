@@ -49,8 +49,8 @@
             "Unavailable <in cities without a [Drone Factory]>",
             "Can see over obstacles",
             "Ranged attacks may be performed over obstacles",
-            "[+250]% Strength <vs [Land] units> <when attacking>",
-            "[+150]% Strength <vs [{non-[Armored]} {Land}] units> <when attacking>",
+            "[+250]% Strength <vs [{non-[Helicopter]} {Land}] units> <when attacking>",
+            "[+150]% Strength <vs [{non-[Helicopter]} {non-[Armored]} {Land}] units> <when attacking>",
             "[+200]% Strength <vs cities> <when attacking>"
         ],
         "attackSound": "bombing",
@@ -76,8 +76,8 @@
             "Unavailable <in cities without a [Drone Factory]>",
             "Can see over obstacles",
             "Ranged attacks may be performed over obstacles",
-            "[+400]% Strength <vs [Land] units> <when attacking>",
-            "[+100]% Strength <vs [{non-[Armored]} {Land}] units> <when attacking>",
+            "[+400]% Strength <vs [{non-[Helicopter]} {Land}] units> <when attacking>",
+            "[+100]% Strength <vs [{non-[Helicopter]} {non-[Armored]} {Land}] units> <when attacking>",
             "[+300]% Strength <vs cities> <when attacking>",
             "Self-destructs when attacking"
         ],
@@ -124,7 +124,7 @@
             "Can perform Air Sweep",
             "Can see over obstacles",
             "Ranged attacks may be performed over obstacles",
-            "[+50]% Strength <vs [Land] units> <when attacking>",
+            "[+50]% Strength <vs [{non-[Helicopter]} {Land}] units> <when attacking>",
             "[+50]% Strength <vs cities> <when attacking>",
             "[+8] Sight"
         ],
