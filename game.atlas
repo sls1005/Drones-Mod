@@ -18,6 +18,20 @@ BuildingIcons/Delivery Drones
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Drone Factory
+  rotate: false
+  xy: 652, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/LED Drones
+  rotate: false
+  xy: 652, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Camera Drone
   rotate: false
   xy: 436, 4
@@ -28,13 +42,6 @@ UnitIcons/Camera Drone
 UnitIcons/Combat Drone
   rotate: false
   xy: 544, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Drone Anti-Submarine Helicopter
-  rotate: false
-  xy: 868, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -56,6 +63,13 @@ UnitIcons/Drone Ship
 UnitIcons/Loitering Munition
   rotate: false
   xy: 1300, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Unmanned Anti-Submarine Helicopter
+  rotate: false
+  xy: 868, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -103,20 +117,6 @@ UnitPromotionIcons/Better Camera
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Deck for Drone
-  rotate: false
-  xy: 652, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Drone Factory
-  rotate: false
-  xy: 652, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/LED Drones
   rotate: false
   xy: 652, 4
   size: 100, 100

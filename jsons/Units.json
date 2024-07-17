@@ -131,7 +131,7 @@
         "attackSound": "missile"
     },
     {
-        "name": "Drone Anti-Submarine Helicopter",
+        "name": "Unmanned Anti-Submarine Helicopter",
         "unitType": "Unmanned Aerial Vehicle",
         "requiredTech": "Computers",
         "cost": 250,

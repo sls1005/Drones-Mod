@@ -79,12 +79,12 @@
         "name": "Deck for Drone I",
         "prerequisites": ["Boarding Party I", "Bombardment I", "Coastal Raider I", "Targeting I"],
         "unitTypes": ["Melee Water", "Ranged Water"],
-        "uniques": ["Can carry [1] [Drone Anti-Submarine Helicopter] units"]
+        "uniques": ["Can carry [1] [Unmanned Anti-Submarine Helicopter] units"]
     },
     {
         "name": "Deck for Drone II",
         "prerequisites": ["Deck for Drone I"],
         "unitTypes": ["Melee Water", "Ranged Water"],
-        "uniques": ["Can carry [1] extra [Drone Anti-Submarine Helicopter] units"]
+        "uniques": ["Can carry [1] extra [Unmanned Anti-Submarine Helicopter] units"]
     }
 ]
