@@ -94,14 +94,13 @@
         "unitType": "Unmanned Aerial Vehicle",
         "requiredTech": "Computers",
         "cost": 250,
-        "strength": 40,
+        "strength": 0,
         "range": 8,
         "movement": 1,
         "requiredResource": "Oil",
         "uniques": [
             "Unavailable <before discovering [Flight]>",
             "Unavailable <before discovering [Radio]>",
-            "Cannot attack",
             "Can perform Air Sweep",
             "Can see over obstacles",
             "[+6] Sight"
