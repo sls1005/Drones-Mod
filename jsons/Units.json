@@ -147,7 +147,7 @@
             "Can see over obstacles",
             "Can see invisible [Submarine] units",
             "Ranged attacks may be performed over obstacles",
-            "[+150]% Strength <vs [Submarine] units> <when attacking>",
+            "[+250]% Strength <vs [Submarine] units> <when attacking>",
             "[+1] Sight"
         ],
         "attackSound": "bombing",
