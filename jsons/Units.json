@@ -166,8 +166,8 @@
         "uniques": [
             "Unavailable <before discovering [Radio]>",
             "Self-destructs when attacking",
-            "[+400]% Strength <when attacking> <within [10] tiles of a [{Friendly Land} {City center}]> <before discovering [Satellites]>",
-            "[+400]% Strength <when attacking> <after discovering [Satellites]>",
+            "[+400]% Strength <when attacking>",
+            "[20]% Strength decreasing with distance from the capital <when attacking> <before discovering [Satellites]>",
             "No damage penalty for wounded units <when attacking>",
             "Uncapturable",
             "Unable to pillage tiles",
