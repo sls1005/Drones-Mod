@@ -9,7 +9,8 @@
         "promotions": ["Backpack for Drone I"],
         "uniques": [
             "Unavailable <before discovering [Flight]>",
-            "Unavailable <before discovering [Radio]>"
+            "Unavailable <before discovering [Radio]>",
+            "Invisible to non-adjacent units"
         ]
     },
     {
