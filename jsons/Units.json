@@ -3,7 +3,7 @@
         "name": "Drone Controller",
         "unitType": "Scout",
         "requiredTech": "Robotics",
-        "cost": 35,
+        "cost": 45,
         "strength": 5,
         "movement": 1,
         "promotions": ["Backpack for Drone I"],
