@@ -11,6 +11,11 @@
             "Unavailable <before discovering [Flight]>",
             "Unavailable <before discovering [Radio]>",
             "Invisible to non-adjacent units"
+        ],
+        "civilopediaText": [
+            {
+                "text": "Tip: Retreat from the front lines as soon as possible after attacking. Once you attack with a drone, the enemy can get your location."
+            }
         ]
     },
     {
