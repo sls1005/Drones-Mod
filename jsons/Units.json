@@ -11,7 +11,8 @@
             "Unavailable <before discovering [Flight]>",
             "Unavailable <before discovering [Radio]>",
             "[-1] Sight",
-            "Invisible to non-adjacent units"
+            "Invisible to non-adjacent units",
+            "Unable to capture cities"
         ],
         "civilopediaText": [
             {
