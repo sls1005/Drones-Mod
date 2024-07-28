@@ -185,6 +185,11 @@
             "Destroys tile improvements when attacking",
             "Unable to capture cities"
         ],
+        "civilopediaText": [
+            {
+                "text": "Tips: Don't make it go out of the range, or you might not be able to control it any longer."
+            }
+        ]
         "attackSound": "nonmetalhit"
     },
     {
