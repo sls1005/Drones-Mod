@@ -130,3 +130,10 @@ UnitPromotionIcons/UAV Endurance
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitPromotionIcons/Underwater Launcher of Drone
+  rotate: false
+  xy: 652, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
