@@ -80,9 +80,9 @@
         "prerequisites": ["Boarding Party I", "Bombardment I", "Coastal Raider I", "Targeting I"],
         "unitTypes": ["Melee Water", "Ranged Water"],
         "uniques": ["Can carry [1] [Unmanned Anti-Submarine Helicopter] units"],
-        "civilopediaText": {
-            "text": "Deck for drones, plus equipment."
-        }
+        "civilopediaText": [
+            { "text": "Deck for drones, plus equipment." }
+        ]
     },
     {
         "name": "Deck for Drone II",
