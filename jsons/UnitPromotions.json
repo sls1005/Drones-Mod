@@ -86,5 +86,20 @@
         "prerequisites": ["Deck for Drone I"],
         "unitTypes": ["Melee Water", "Ranged Water"],
         "uniques": ["Can carry [1] extra [Unmanned Anti-Submarine Helicopter] units"]
+    },
+    {
+        "name": "Underwater Launcher of Drone I",
+        "unitTypes": ["Submarine", "Unmanned Underwater Vehicle"],
+        "uniques": ["Can carry [1] [Small Drone] units"]
+    },
+    {
+        "name": "Underwater Launcher of Drone II",
+        "unitTypes": ["Submarine", "Unmanned Underwater Vehicle"],
+        "uniques": ["Can carry [1] extra [Small Drone] units"]
+    },
+    {
+        "name": "Underwater Launcher of Drone III",
+        "unitTypes": ["Submarine", "Unmanned Underwater Vehicle"],
+        "uniques": ["Can carry [1] extra [Small Drone] units"]
     }
 ]
