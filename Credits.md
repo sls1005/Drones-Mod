@@ -22,7 +22,7 @@ The following icons are used in this project:
 
 * [Drone](https://thenounproject.com/icon/drone-6981102/) by Nina Karlos from <a href="https://thenounproject.com/browse/icons/term/drone/" target="_blank" title="Drone Icons">Noun Project</a> (CC BY 3.0), used [here](Images/BuildingIcons/Delivery%20Drones.png) and [here](game.png).
 
-* [Drone](https://thenounproject.com/icon/drone-3093112/) by verry poernomo from <a href="https://thenounproject.com/browse/icons/term/drone/" target="_blank" title="Drone Icons">Noun Project</a> (CC BY 3.0), used [here](Images/BuildingIcons/Drone%20Factory.png), [here](Images/BuildingIcons/LED%20Drones.png), [here](Images/UnitPromotionIcons/Deck%20for%20Drone.png) and [here](game.png).
+* [Drone](https://thenounproject.com/icon/drone-3093112/) by verry poernomo from <a href="https://thenounproject.com/browse/icons/term/drone/" target="_blank" title="Drone Icons">Noun Project</a> (CC BY 3.0), used [here](Images/BuildingIcons/Drone%20Factory.png), [here](Images/BuildingIcons/LED%20Drones.png), [here](Images/UnitPromotionIcons/Deck%20for%20Drone.png), [here](Images/UnitPromotionIcons/Underwater%20Launcher%20of%20Drone.png) and [here](game.png).
 
 * [anti drone](https://thenounproject.com/icon/anti-drone-6189627/) by santa92 from <a href="https://thenounproject.com/browse/icons/term/anti-drone/" target="_blank" title="anti drone Icons">Noun Project</a> (CC BY 3.0), used [here](Images/UnitPromotionIcons/Anti-Drone.png) and [here](game.png).
 
