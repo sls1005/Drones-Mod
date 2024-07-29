@@ -95,6 +95,13 @@ UnitIcons/Small Undersea Drone
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Underwater Explosive Drone
+  rotate: false
+  xy: 1624, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitPromotionIcons/Anti-Drone
   rotate: false
   xy: 112, 4
