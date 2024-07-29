@@ -188,8 +188,8 @@
             "[-2] Sight",
             "[+2] Sight <within [10] tiles of a [City center]> <before discovering [Satellites]>",
             "[+2] Sight <after discovering [Satellites]>",
-            "[+450]% Strength <when attacking> <within [10] tiles of a [City center]> <before discovering [Satellites]>",
-            "[+450]% Strength <when attacking> <after discovering [Satellites]>",
+            "[+450]% Strength <vs [{non-[Submarine]} {non-[Unmanned Underwater Vehicle]}] units> <when attacking> <within [10] tiles of a [City center]> <before discovering [Satellites]>",
+            "[+450]% Strength <vs [{non-[Submarine]} {non-[Unmanned Underwater Vehicle]}] units> <when attacking> <after discovering [Satellites]>",
             "Can only attack [Military] units",
             "Self-destructs when attacking",
             "No damage penalty for wounded units <when attacking>",
@@ -198,12 +198,12 @@
             "Destroys tile improvements when attacking",
             "Unable to capture cities"
         ],
+        "attackSound": "nonmetalhit",
         "civilopediaText": [
             {
                 "text": "Tips: Don't make it go out of the range, or you might not be able to control it any longer."
             }
         ]
-        "attackSound": "nonmetalhit"
     },
     {
         "name": "Small Undersea Drone",
@@ -231,9 +231,7 @@
             "[+3] Movement <within [10] tiles of a [City center]>",
             "[-2] Sight",
             "[+1] Sight <within [10] tiles of a [City center]>",
-            "[+900]% Strength <vs [Melee Water] units> <when attacking>",
-            "[+900]% Strength <vs [Ranged Water] units> <when attacking>",
-            "[+900]% Strength <vs [Aircraft Carrier] units> <when attacking>",
+            "[+900]% Strength <vs [{non-[Submarine]} {non-[Unmanned Underwater Vehicle]}] units> <when attacking>",
             "Can only attack [Water] tiles",
             "Can only attack [Military] units",
             "Self-destructs when attacking",
@@ -241,6 +239,7 @@
             "Uncapturable",
             "Unable to pillage tiles",
             "Unable to capture cities"
-        ]
+        ],
+        "attackSound": "nonmetalhit"
     }
 ]
