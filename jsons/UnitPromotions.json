@@ -92,18 +92,18 @@
     },
     {
         "name": "Underwater Launcher of Drone I",
-        "unitTypes": ["Submarine", "Unmanned Underwater Vehicle"],
+        "unitTypes": ["Submarine"],
         "uniques": ["Can carry [1] [Small Drone] units"]
     },
     {
         "name": "Underwater Launcher of Drone II",
-        "unitTypes": ["Submarine", "Unmanned Underwater Vehicle"],
+        "unitTypes": ["Submarine"],
         "prerequisites": ["Underwater Launcher of Drone I"],
         "uniques": ["Can carry [1] extra [Small Drone] units"]
     },
     {
         "name": "Underwater Launcher of Drone III",
-        "unitTypes": ["Submarine", "Unmanned Underwater Vehicle"],
+        "unitTypes": ["Submarine"],
         "prerequisites": ["Underwater Launcher of Drone II"],
         "uniques": ["Can carry [1] extra [Small Drone] units"]
     }

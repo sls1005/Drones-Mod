@@ -190,6 +190,7 @@
             "[+2] Sight <after discovering [Satellites]>",
             "[+450]% Strength <when attacking> <within [10] tiles of a [City center]> <before discovering [Satellites]>",
             "[+450]% Strength <when attacking> <after discovering [Satellites]>",
+            "Can only attack [Military] units",
             "Self-destructs when attacking",
             "No damage penalty for wounded units <when attacking>",
             "Uncapturable",
@@ -214,6 +215,32 @@
         "uniques": [
             "Unavailable <before discovering [Radio]>",
             "Uncapturable"
+        ]
+    },
+    {
+        "name": "Underwater Explosive Drone",
+        "unitType": "Unmanned Underwater Vehicle",
+        "requiredTech": "Robotics",
+        "cost": 100,
+        "strength": 5,
+        "movement": 3,
+        "uniques": [
+            "Unavailable <before discovering [Radio]>",
+            "Invisible to non-adjacent units",
+            "[-3] Movement",
+            "[+3] Movement <within [10] tiles of a [City center]>",
+            "[-2] Sight",
+            "[+1] Sight <within [10] tiles of a [City center]>",
+            "[+900]% Strength <vs [Melee Water] units> <when attacking>",
+            "[+900]% Strength <vs [Ranged Water] units> <when attacking>",
+            "[+900]% Strength <vs [Aircraft Carrier] units> <when attacking>",
+            "Can only attack [Water] tiles",
+            "Can only attack [Military] units",
+            "Self-destructs when attacking",
+            "No damage penalty for wounded units <when attacking>",
+            "Uncapturable",
+            "Unable to pillage tiles",
+            "Unable to capture cities"
         ]
     }
 ]
