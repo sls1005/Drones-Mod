@@ -231,7 +231,7 @@
             "Invisible to non-adjacent units",
             "Can see invisible [Submarine] units <within [10] tiles of a [City center]> <hidden from users>",
             "Can see invisible [Unmanned Underwater Vehicle] units <within [10] tiles of a [City center]> <hidden from users>",
-            "Can see invisible Submarine units and Unmanned Underwater Vehicle units if the distance from a City center is not farther than 10",
+            "Comment [Can see invisible Submarine units and Unmanned Underwater Vehicle units if the distance from a City center is not farther than 10]",
             "[-3] Movement",
             "[+3] Movement <within [10] tiles of a [City center]>",
             "[-2] Sight",
