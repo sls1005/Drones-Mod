@@ -25,7 +25,6 @@
         "movementType": "Water",
         "uniques": [
             "Can enter ice tiles",
-            "Can see invisible [Submarine] units",
             "[-50]% maintenance costs <in [Friendly Land] tiles>",
             "[-100]% maintenance costs <in [Foreign Land] tiles>"
         ]

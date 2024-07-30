@@ -14,6 +14,7 @@
             "Invisible to non-adjacent units",
             "Unable to capture cities"
         ],
+        "attackSound": "nonmetalhit",
         "civilopediaText": [
             {
                 "text": "Tips: Retreat from the front line as soon as possible after attacking. Once you attack with a drone, the enemy can get your location."
@@ -214,6 +215,7 @@
         "movement": 2,
         "uniques": [
             "Unavailable <before discovering [Radio]>",
+            "Can see invisible [Water] units",
             "Uncapturable"
         ]
     },
@@ -227,6 +229,9 @@
         "uniques": [
             "Unavailable <before discovering [Radio]>",
             "Invisible to non-adjacent units",
+            "Can see invisible [Submarine] units <within [10] tiles of a [City center]> <hidden from users>",
+            "Can see invisible [Unmanned Underwater Vehicle] units <within [10] tiles of a [City center]> <hidden from users>",
+            "Can see invisible Submarine units and Unmanned Underwater Vehicle units if the distance from a City center is not farther than 10",
             "[-3] Movement",
             "[+3] Movement <within [10] tiles of a [City center]>",
             "[-2] Sight",
