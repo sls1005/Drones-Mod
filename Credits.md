@@ -14,7 +14,7 @@ The following icons are used in this project:
 
 * [Drone](https://thenounproject.com/icon/drone-6881241/) by Romansa Design Art from <a href="https://thenounproject.com/browse/icons/term/drone/" target="_blank" title="Drone Icons">Noun Project</a> (CC BY 3.0), used [here](Images/UnitIcons/Small%20Combat%20Drone.png) and [here](game.png).
 
-* [Submarine](https://thenounproject.com/icon/submarine-6914200/) by Taewon Kang from <a href="https://thenounproject.com/browse/icons/term/submarine/" target="_blank" title="Submarine Icons">Noun Project</a> (CC BY 3.0), used [here](Images/UnitIcons/Small%20Undersea%20Drone.png) and [here](game.png).
+* [Submarine](https://thenounproject.com/icon/submarine-6914200/) by Taewon Kang from <a href="https://thenounproject.com/browse/icons/term/submarine/" target="_blank" title="Submarine Icons">Noun Project</a> (CC BY 3.0), used [here](Images/UnitIcons/Small%20Undersea%20Drone.png), [here](Images/UnitIcons/Underwater%20Explosive%20Drone.png) and [here](game.png).
 
 * [Drone](https://thenounproject.com/icon/drone-1935590/) by Tang Ge from <a href="https://thenounproject.com/browse/icons/term/drone/" target="_blank" title="Drone Icons">Noun Project</a> (CC BY 3.0), used [here](Images/UnitIcons/Unmanned%20Anti-Submarine%20Helicopter.png) and [here](game.png).
 
